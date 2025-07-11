@@ -15,3 +15,4 @@ This project analysis FURNITURE SALES PERFORMANCE (2017 VRS 2016), AN ANALYSIS C
 - Optimize shipping strategies and explore ways to increase efficiency
 - Expand efforts in top-performing cities while exploring nearby growth zones
 
+## Data analysis [Excel](https://us.docworkspace.com/d/sIL6divU-oMfEwwY?sa=601.1037)
