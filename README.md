@@ -1,0 +1,2 @@
+# Furniture-sales-performance
+This project analysis FURNITURE SALES PERFORMANCE (2017 VRS 2016), AN ANALYSIS COMPARING SALES, PROFIT AND TRENDS
